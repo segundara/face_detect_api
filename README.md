@@ -9,3 +9,5 @@ This app makes use of this service:
 And uses:
 
 ### postgreSQL for the database.
+
+This API with the database are deployed on heroku service.
